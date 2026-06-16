@@ -1,0 +1,30 @@
+{
+  "name": "@atumerce/tokens",
+  "version": "1.0.0",
+  "description": "Atumerce Design System — W3C Design Tokens for web, iOS, and Figma",
+  "main": "build/js/tokens.js",
+  "style": "build/css/variables.css",
+  "sass": "build/scss/_tokens.scss",
+  "files": [
+    "build/",
+    "tokens/",
+    "examples/",
+    "README.md"
+  ],
+  "scripts": {
+    "build": "node build.js",
+    "watch": "npx chokidar 'tokens/**/*.json' -c 'npm run build'"
+  },
+  "keywords": [
+    "atumerce",
+    "design-tokens",
+    "design-system",
+    "tailwindcss",
+    "w3c-design-tokens"
+  ],
+  "author": "Atumerce",
+  "license": "MIT",
+  "devDependencies": {
+    "style-dictionary": "^4.0.0"
+  }
+}

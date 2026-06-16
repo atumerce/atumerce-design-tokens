@@ -1,0 +1,11 @@
+{
+  "radius": {
+    "none": { "$type": "dimension", "$value": "0px" },
+    "sm": { "$type": "dimension", "$value": "0.25rem", "$description": "4px — tight corners" },
+    "md": { "$type": "dimension", "$value": "0.5rem", "$description": "8px — default cards" },
+    "lg": { "$type": "dimension", "$value": "0.75rem", "$description": "12px — panels" },
+    "xl": { "$type": "dimension", "$value": "1rem", "$description": "16px — large cards" },
+    "2xl": { "$type": "dimension", "$value": "1.5rem", "$description": "24px — hero cards" },
+    "full": { "$type": "dimension", "$value": "9999px", "$description": "Pills, badges" }
+  }
+}

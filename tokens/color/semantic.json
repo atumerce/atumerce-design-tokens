@@ -1,0 +1,25 @@
+{
+  "color": {
+    "semantic": {
+      "surface": {
+        "default": { "$type": "color", "$value": "#06100B", "$description": "Default page background" },
+        "raised": { "$type": "color", "$value": "#0A1A14", "$description": "Card / elevated surface" },
+        "overlay": { "$type": "color", "$value": "#000000B3", "$description": "Modal / panel overlay" }
+      },
+      "text": {
+        "primary": { "$type": "color", "$value": "#E6E6E6", "$description": "Headings, body text" },
+        "secondary": { "$type": "color", "$value": "#999999", "$description": "Captions, metadata" },
+        "inverse": { "$type": "color", "$value": "#06100B", "$description": "Text on light backgrounds" }
+      },
+      "border": {
+        "subtle": { "$type": "color", "$value": "#FFFFFF26", "$description": "Dividers, borders on dark" },
+        "accent": { "$type": "color", "$value": "#00CCBB", "$description": "Active / focused borders" }
+      },
+      "state": {
+        "hover": { "$type": "color", "$value": "#00CCBB1A", "$description": "Hover overlay at 10% turquoise" },
+        "active": { "$type": "color", "$value": "#00CCBB33", "$description": "Active / pressed overlay" },
+        "disabled": { "$type": "color", "$value": "#99999966", "$description": "Disabled state at 40% muted" }
+      }
+    }
+  }
+}

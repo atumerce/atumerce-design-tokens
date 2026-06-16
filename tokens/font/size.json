@@ -1,0 +1,17 @@
+{
+  "font": {
+    "size": {
+      "xs": { "$type": "fontSize", "$value": "0.75rem", "$description": "12px — captions, tags" },
+      "sm": { "$type": "fontSize", "$value": "0.875rem", "$description": "14px — small UI text" },
+      "base": { "$type": "fontSize", "$value": "1rem", "$description": "16px — body text" },
+      "lg": { "$type": "fontSize", "$value": "1.125rem", "$description": "18px — lead paragraphs" },
+      "xl": { "$type": "fontSize", "$value": "1.25rem", "$description": "20px — small headings" },
+      "2xl": { "$type": "fontSize", "$value": "1.5rem", "$description": "24px — H4" },
+      "3xl": { "$type": "fontSize", "$value": "1.875rem", "$description": "30px — H3" },
+      "4xl": { "$type": "fontSize", "$value": "2.25rem", "$description": "36px — H2" },
+      "5xl": { "$type": "fontSize", "$value": "3rem", "$description": "48px — H1" },
+      "6xl": { "$type": "fontSize", "$value": "3.75rem", "$description": "60px — hero display" },
+      "7xl": { "$type": "fontSize", "$value": "4.5rem", "$description": "72px — large hero" }
+    }
+  }
+}

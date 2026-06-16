@@ -1,0 +1,16 @@
+{
+  "color": {
+    "brand": {
+      "void": { "$type": "color", "$value": "#06100B", "$description": "Atumerce deep void — primary dark surface" },
+      "panel": { "$type": "color", "$value": "#000000B3", "$description": "Glass panel overlay at 70% opacity" },
+      "line": { "$type": "color", "$value": "#FFFFFF26", "$description": "Subtle divider line at 15% white" },
+      "text": { "$type": "color", "$value": "#E6E6E6", "$description": "Primary readable text on dark surfaces" },
+      "muted": { "$type": "color", "$value": "#999999", "$description": "Secondary / caption text" },
+      "turquoise": { "$type": "color", "$value": "#00CCBB", "$description": "Brand accent — CTA, links, highlights" },
+      "turquoiseGlow": { "$type": "color", "$value": "#00CCBB33", "$description": "Turquoise at 20% for glow/shadow" },
+      "gold": { "$type": "color", "$value": "#FFC34D", "$description": "Brand gold — premium, rewards, highlights" },
+      "goldDeep": { "$type": "color", "$value": "#CC9200", "$description": "Deep gold for emphasis states" },
+      "teal": { "$type": "color", "$value": "#003330", "$description": "Dark teal for secondary surfaces" }
+    }
+  }
+}
