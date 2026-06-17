@@ -2,10 +2,11 @@
   "color": {
     "brand": {
       "turquoise": {
-        "1": { "$type": "color", "$value": "#00AAFF", "$description": "Turquoise light — glow, highlights" },
-        "2": { "$type": "color", "$value": "#4DFFF5", "$description": "Turquoise bright — emphasis states" },
-        "3": { "$type": "color", "$value": "#00CCBB", "$description": "Turquoise core — CTA, links, brand accent" },
-        "4": { "$type": "color", "$value": "#003330", "$description": "Teal dark — secondary surfaces, deep backgrounds" }
+        "1": { "$type": "color", "$value": "#A3CCC9", "$description": "Turquoise muted light — subtle backgrounds" },
+        "2": { "$type": "color", "$value": "#00CCBB", "$description": "Turquoise core — CTA, links, brand accent" },
+        "3": { "$type": "color", "$value": "#008075", "$description": "Turquoise medium — active elements" },
+        "4": { "$type": "color", "$value": "#00665E", "$description": "Turquoise deep — secondary surfaces" },
+        "5": { "$type": "color", "$value": "#003330", "$description": "Teal dark — deep backgrounds" }
       },
       "gold": {
         "1": { "$type": "color", "$value": "#FFC34D", "$description": "Gold main — premium, rewards, primary highlights" },

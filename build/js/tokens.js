@@ -6,10 +6,11 @@
 export const color = {
   brand: {
     turquoise: {
-      1: { value: '#00AAFF', type: 'color', description: 'Turquoise light — glow, highlights' },
-      2: { value: '#4DFFF5', type: 'color', description: 'Turquoise bright — emphasis states' },
-      3: { value: '#00CCBB', type: 'color', description: 'Turquoise core — CTA, links, brand accent' },
-      4: { value: '#003330', type: 'color', description: 'Teal dark — secondary surfaces' },
+      1: { value: '#A3CCC9', type: 'color', description: 'Turquoise muted light — subtle backgrounds' },
+      2: { value: '#00CCBB', type: 'color', description: 'Turquoise core — CTA, links, brand accent' },
+      3: { value: '#008075', type: 'color', description: 'Turquoise medium — active elements' },
+      4: { value: '#00665E', type: 'color', description: 'Turquoise deep — secondary surfaces' },
+      5: { value: '#003330', type: 'color', description: 'Teal dark — deep backgrounds' },
     },
     gold: {
       1: { value: '#FFC34D', type: 'color', description: 'Gold main — premium, rewards, primary highlights' },
